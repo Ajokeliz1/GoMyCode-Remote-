@@ -1,2 +1,4 @@
 Python Error Handling Example.
 my name is Taiwo E
+learning how to append list
+does appending means adding to the list?
